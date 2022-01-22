@@ -1,0 +1,18 @@
+git config --global user.name "your username"
+
+git config --global user.email "ur email"
+
+git clone hhtps link
+
+git add Hello.txt Command.txt 
+
+git commit -m "Descriptive msg"
+
+git status
+
+git push origin branch_name
+
+git checkout -b branch_name
+
+
+
